@@ -1,0 +1,11 @@
+   @import url("Styles/header.css");
+   
+   :root {
+ --COR-DE-FUNDO: #ebecee;
+--laranja:#EB9B00;
+    }
+    body {
+        background-color: var(--COR-DE-FUNDO);
+        --branco:#FFFFFF;
+        --azul-degrade:linear-gardient(97,54deg,#002F52 35.49%,#326)
+    }
